@@ -36,6 +36,7 @@ C    192.168.1.0/24 is directly connected, FastEthernet1/0
      192.168.10.0/30 is subnetted, 1 subnets
 C       192.168.10.0 is directly connected, FastEthernet0/0
 
+
 Роутер 2
 Router#show ip interface brief
 Interface              IP-Address      OK? Method Status                Protocol 
